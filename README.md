@@ -12,6 +12,6 @@ To win over time and have a positive expected value on your investments
 (be it with time or money):  
 - Run many iterations / experiments  
 - Study your investment to minimize the loss in each bet  
-- Take small bets (little leverage) and a big potential upside  
+- Each bet must be small (little leverage) and have a big potential upside  
   
 Over time, your success is inevitable.  
